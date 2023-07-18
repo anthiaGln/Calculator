@@ -79,7 +79,7 @@ public class Calculator implements ActionListener{
 		panel.setBounds(50,100,300,300);
 		panel.setLayout(new GridLayout(4,4,10,10));
 		
-		//προσθήκη κουμπιών στο κομπιουτεράκι
+		//adding buttons to the calculator
 		panel.add(numberButtons[1]);
 		panel.add(numberButtons[2]);
 		panel.add(numberButtons[3]);
