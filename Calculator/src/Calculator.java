@@ -115,7 +115,6 @@ public class Calculator implements ActionListener{
 
 	@Override
 	//buttons function
-	//to concat είναι για τη συνένωση των string sto kompiouteraki
 	public void actionPerformed(ActionEvent e) {
 		
 		for(int i=0; i<10; i++) {
